@@ -1,6 +1,7 @@
-body{
+body {
     overflow: hidden;
     margin: 0;
-    max-width: 820px;
-    min-width: none;
+    
+    width: 90%;
+    max-width: 980px;
 }
